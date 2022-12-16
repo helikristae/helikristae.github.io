@@ -1,3 +1,4 @@
+
 ## Exercise 1
 Writing in Markdown is *not* that hard!
 I **will** complete these lessons!
@@ -10,7 +11,7 @@ If you're thinking to yourself, __*This is unbelievable*__, you'd probably be ri
 ##### Header five
 ###### Header six
 
-####Colombian Symbolism in *One Hundred Years of Solitude*
+#### Colombian Symbolism in *One Hundred Years of Solitude*
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -20,6 +21,7 @@ Here's some words about the book _One Hundred Years..._.
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
+
 [a fun place]:www.zombo.com
 [another fun place]: www.stumbleupon.com
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
